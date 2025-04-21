@@ -10,8 +10,8 @@
       "Action": "EditData",
       "Target": "characters/schedules/Adrian",
       "Entries": {
-        "DesertFestival_3": "a1000 BusStop 26 16 2/1030 Desert 45 38 3/1700 SeedShop 24 14 1 Adrian_PlayToys/2000 Custom_AdrianRoom 8 5 2 Adrian_Sleep",
-        "Tue": "800 Custom_SchoolHouse 11 8 1 Adrian_Read/1130 Town 15 13 2/a1300 Custom_SchoolHouse 11 8 1 Adrian_Read/1550 Town 24 13 2/1740 SeedShop 24 14 1 Adrian_PlayToys/2000 Custom_AdrianRoom 8 5 2 Adrian_Sleep",
+        "DesertFestival_3": "a1000 BusStop 26 16 2/1030 Desert 45 38 3/1700 SeedShop 24 14 1 Adrian_PlayToys/2000 SeedShop 28 28 2 Adrian_Sleep",
+        "Tue": "800 Custom_SchoolHouse 11 8 1 Adrian_Read/1130 Town 15 13 2/a1300 Custom_SchoolHouse 11 8 1 Adrian_Read/1550 Town 24 13 2/1740 SeedShop 24 14 1 Adrian_PlayToys/2000 SeedShop 28 28 2 Adrian_Sleep",
         "Wed": "GOTO Tue",
         "Fri": "GOTO Tue",
         "9": "GOTO season",
@@ -37,7 +37,7 @@
         "noschoolday": false
       },
       "Entries": {
-        "rain": "800 Custom_SchoolHouse 11 8 1 Adrian_Read/1550 Town 24 13 2/1740 SeedShop 24 14 1 Adrian_PlayToys/2000 Custom_AdrianRoom 8 5 2 Adrian_Sleep"
+        "rain": "800 Custom_SchoolHouse 11 8 1 Adrian_Read/1550 Town 24 13 2/1740 SeedShop 24 14 1 Adrian_PlayToys/2000 SeedShop 28 28 2 Adrian_Sleep"
       }
     },
 
