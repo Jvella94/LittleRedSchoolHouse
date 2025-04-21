@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="27" height="22" tilewidth="16" tileheight="16" infinite="0" nextlayerid="17" nextobjectid="4">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="27" height="22" tilewidth="16" tileheight="16" infinite="0" nextlayerid="17" nextobjectid="4">
  <editorsettings>
   <export format="tmx"/>
  </editorsettings>
@@ -1672,7 +1672,7 @@
  <tileset firstgid="6652" name="zzzXiddav_FestivalExtras" tilewidth="16" tileheight="16" tilecount="800" columns="40">
   <image source=".Xiddav_FestivalExtras.png" width="640" height="320"/>
  </tileset>
- <tileset firstgid="7452" name="v16_landscape2" tilewidth="16" tileheight="16" tilecount="58" columns="16">
+ <tileset firstgid="7452" name="v16_landscape2" tilewidth="16" tileheight="16" tilecount="1120" columns="16">
   <image source=".winter_outdoorsTileSheet2.png" width="256" height="1120"/>
   <tile id="568">
    <animation>
@@ -1979,10 +1979,10 @@
    </animation>
   </tile>
  </tileset>
- <tileset firstgid="8511" name="v16_Shadows" tilewidth="16" tileheight="16" tilecount="0" columns="19">
+ <tileset firstgid="8572" name="v16_Shadows" tilewidth="16" tileheight="16" tilecount="475" columns="19">
   <image source=".winter_Shadows.png" width="304" height="400"/>
  </tileset>
- <tileset firstgid="8511" name="v16_Waterfalls" tilewidth="16" tileheight="16" tilecount="34" columns="36">
+ <tileset firstgid="9047" name="v16_Waterfalls" tilewidth="16" tileheight="16" tilecount="900" columns="36">
   <image source=".winter_Waterfalls.png" width="576" height="400"/>
   <tile id="145">
    <animation>
@@ -2699,25 +2699,25 @@
    </animation>
   </tile>
  </tileset>
- <tileset firstgid="8877" name="z_rsvinterior" tilewidth="16" tileheight="16" tilecount="1900" columns="19">
+ <tileset firstgid="9947" name="z_rsvinterior" tilewidth="16" tileheight="16" tilecount="1900" columns="19">
   <image source=".z_rsvinterior.png" width="304" height="1600"/>
  </tileset>
- <tileset firstgid="10777" name="zrsvfestivals" tilewidth="16" tileheight="16" tilecount="950" columns="19">
+ <tileset firstgid="11847" name="zrsvfestivals" tilewidth="16" tileheight="16" tilecount="950" columns="19">
   <image source=".zrsvfestivals.png" width="304" height="800"/>
  </tileset>
- <tileset firstgid="11727" name="winter_zridgesidebuildings" tilewidth="16" tileheight="16" tilecount="3968" columns="62">
+ <tileset firstgid="12797" name="winter_zridgesidebuildings" tilewidth="16" tileheight="16" tilecount="3968" columns="62">
   <image source=".winter_zridgesidebuildings.png" width="992" height="1024"/>
  </tileset>
- <tileset firstgid="15695" name="winter_zrsvbettersquare" tilewidth="16" tileheight="16" tilecount="98" columns="14">
+ <tileset firstgid="16765" name="winter_zrsvbettersquare" tilewidth="16" tileheight="16" tilecount="98" columns="14">
   <image source=".winter_zrsvbettersquare.png" width="224" height="112"/>
  </tileset>
- <tileset firstgid="15793" name="zridgesideCraftables" tilewidth="16" tileheight="16" tilecount="448" columns="8">
+ <tileset firstgid="16863" name="zridgesideCraftables" tilewidth="16" tileheight="16" tilecount="448" columns="8">
   <image source=".zridgesideCraftables.png" width="128" height="896"/>
  </tileset>
- <tileset firstgid="16241" name="RafNPCSheet" tilewidth="16" tileheight="16" tilecount="144" columns="8">
+ <tileset firstgid="17311" name="RafNPCSheet" tilewidth="16" tileheight="16" tilecount="144" columns="8">
   <image source=".RafNPCSheet.png" width="128" height="288"/>
  </tileset>
- <tileset firstgid="16385" name="zridgesidefurniture" tilewidth="16" tileheight="16" tilecount="2048" columns="32">
+ <tileset firstgid="17455" name="zridgesidefurniture" tilewidth="16" tileheight="16" tilecount="2048" columns="32">
   <image source=".zridgesidefurniture.png" width="512" height="1024"/>
  </tileset>
  <layer id="1" name="Back" width="27" height="22">
@@ -2725,7 +2725,7 @@
    eJytlTtOw0AQhneiSGmoECEtF6DIIfJQxB0SB4k6JYTY1JQGgt3kCEAkSk4A3AKJkisgZtgZ+fcmEDBY+mXva76d8cxur+5cD9RhjQJ1g/6wHbEScm7MmrJS1gVryBqxBqqQI+ty7o+pePe1/1r7rH1Evk+UsSIWKYsC1phWOTGMnQS6AttmH+eZT0vndRyMhZwcxmS+2WpSsVa+d1ktnXcBjMwVrBy+RZ16ea8jXSPvN41Lqt9oK/vCXihkY9wONCZNtd0C/yb0vc2fKIa4T9UPjAnp+/wfWGfAkfY0YMRUCHO2ihL1xfzBMeQ8bGCFNbmJlUJe4rrPXFljD2sZ97VwvgbDeYnmXqTzMP/xkbbV7t7W7yXrEirvCfcY1cuSue2KrMM1LNx/KMvXKqwZ2LU4x1Sco+EZZedJVVaiddxj9cnXgOXLTcO5W9Zdw+fHI+vJVWPNqcgNzA9jiX3kvXB7UKvGGlPxv62eN7HuK/oVUfmOW7pVlvEkfs+s1z+yTvVfpeCX9RlPfJrUPGuHysr0rpL7bQa5nOm/MV+wljPwqw2+ydll8XvXewRZMn5J/h6e0+o9KpwusMwPY+0DC+PX1Zy1vEUm3sPGsH0NgRXmhvmaa/xqGr+h1shi248je536sI8PpaD4Xw==
   </data>
  </layer>
- <layer id="11" name="Back 2" width="27" height="22">
+ <layer id="11" name="Back2" width="27" height="22">
   <properties>
    <property name="Draw" value="Back"/>
   </properties>
@@ -2733,7 +2733,7 @@
    eJxjYBgFo2DwAUdG+tkVRUe7iulo10CDf4IMDP8FB9oV1AFfRRgYvgOxONA/x4D0URHa2ickysBgCrTrEY3tGQWjYBRQDgBBdgiD
   </data>
  </layer>
- <layer id="16" name="Back 3" width="27" height="22">
+ <layer id="16" name="Back3" width="27" height="22">
   <data encoding="base64" compression="zlib">
    eJxjYCAdCEqToYlMYElHu0bBKBgFtANKMgwMykBcBKWRMTYxFRny7fIF6i0G4hIiMEidKuV2KRBjVwkV7EJzuwO97KKnv5Djhp7+goVnMZXs8gLqLUXC3mh8dDEfCuwaBQMHAO3HNLw=
   </data>
@@ -2744,9 +2744,9 @@
    eJytlUlPVEEQx3uIUfENIs5FeTF6MHFBowhI9OJ2UXA5uEX8AMaNIQzejTflohcTY/RgTBT8ACYa48zB7eqCdwV0xOUr+KtMV6ZezxsRmEp+6b3+Vf36dXdEzm0BtQvUL5q22Llk091pr/TNhtipnHOnc5V6P34PG983qI+maG+GDh9XCa2bjN2CfFSNR1geJ7VG0LmSS8Z6Poi9JU5q90XVuMpojTE2Dq1xUmun1yqm5K52zSVj72HNpoxzL+ETrM8k5+v63jh9/757rWxcqyV1jV1MdPbDL/gNz4xW6FfmfvQxaWz0XZWx7hQt9bGBeRu9zllY3OTcEvjgfYQ+pT1kYtLyfTBfSmtl2EvfPq8zAmvRWQc/fX/oswjXTUylTKWcMfOKvtQzqXv/gr4Br1MwsYivAe+zZHxL+cDEpOUiM66lnknduwmvUQhyFiuk+JTyuZmr53ZNyjz9brp3f6AbHrU59xjGYByewBf4xvk6AJP/WSpl8w+c8Xun+bzC72t4A2/hHbiVtbnOxVRrONi3r/iehCmYlnzaFqZjtR6mfB9rvXFt3yX25TIMtqevuRv0q9Y9tO7DU8ivTl/bx9r+On7FPq/irJvxKerTpi06eo9KfbROfgdZcyjQyQftYdqFoG8m0NJ71Gq1cG5bg7dlNpsgr6XsdTMsgwhuB1r2jtTvthWdbVHlDp2LbcdPJ+yAruAb650od2RTppqXaK2YR27/sl25qqbN6wgaR+FYA7XkLrTvVr2z0QiTu9C+uZpXV5Z9hZ5s47TCd0/zOo7GCTi5AK0f/lztbnZuD/wFQzmfbw==
   </data>
  </layer>
- <layer id="15" name="Buildings 2" width="27" height="22">
+ <layer id="15" name="Buildings2" width="27" height="22">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2DogEtuDAyX3QbaFaNgFIyC4QimSkFoOSBdIEV7+2bRwY5RQHsAAOM2BFc=
+   eJxjYBgFo2AIAW8GBkbvgXbEKBgFo2A4gqlSEFoOSBdI0d6+WXSwYxTQHgAAVloCvQ==
   </data>
  </layer>
  <objectgroup id="4" name="Buildings"/>
@@ -2758,13 +2758,13 @@
  <objectgroup id="6" name="Paths"/>
  <layer id="7" name="Front" width="27" height="22">
   <data encoding="base64" compression="zlib">
-   eJzdlctOwkAYhUcXRmwTUioLywIve/EWMRp2XjZo4S0MFV172QtFdybGF/ApvOOD+TW0yQQ7tNXBhSf5MpPp/OcMM6UjhBCbUIUtodaMIYQBpjFiUqgWczzFPBca0Ey2SSWfnF7CmrKsfdxatgZttEd26feedXwsfAtgwywUoR5mRXu0oyErUAXfFViFNViHlqXHO1BeWuchvkfgQgOa0NGYJcvD9wTacApn8Aj3zuD5naKNznJ4/MFRZ3Xx9aEHN3ALn/BKTQmeMrbvI7L+oypz38fyMe/3LvuyB/vS/hxLfS/FvrkxWYEWqV2S6ssxXn1p7Jn+yw/OaZ6ahaG6gxQ+fcUcHd+ctJK/OSb9ArxpfFenFOMb5Gxr/p1lxXiVnDb//8kJvXl/dW+p7mLb5C6BojnefFnnNSEu4BKuatlqP8L3yslxVrnk+df4d6ALfpqsafWjL+dhNRQ=
+   eJzdlctOwkAYhUcXRmwTUioLywIve/EWMboi8bJBC29hqOhrKOjOxPgCou69LLzjg/k1tMkEO7TVwYUn+TKT6fznDDOlI4QQq1CGNaHWhCGEAaYxYFKgBnM8xTwXalCPt0mkFjntmDWlWfuwNW/12nCP7MLvPav4WPjmwIZJyEM1yAr3aENDlq8SvguwCEuwDA1Lj7evrLTOXXz3wIUa1OFYY5YsD98DaMIhHMEVXDi95+eKNjzL/vFLR511gm8L2nAKZ/AJr9QU4Cll+z4g6z+qNPV9LBvxfm+yL1uwLe3PvtT3EuybG5Hla5baOam+GOHVlcae6b/84JymqZnpq9tJ4NNVzNHxzUkq+Ztj0s/Bm8Z3dUwxvkLOuubfWVSMl8lp8v8fHdGb91f3luoutk3uEsibw82X1akIcQ03cFtJV/sRvFdOhrPKxM+/w/8eHuAxSda4+tEXqRA2pA==
   </data>
  </layer>
  <objectgroup id="8" name="Front"/>
  <layer id="9" name="AlwaysFront" width="27" height="22">
   <data encoding="base64" compression="zlib">
-   eJztlklOAkEYRv+VQ1igjZrY6AmctrqUKHIJHHaKB9AToO6c7qBHcNiALnCtDDul9QaoO1QeMca2UoVC1YKFX/JCUtV8L9Wd/N0i+uxERHYjhk2yBdvm7bZygue0hauT5DyRPFzBtfe5lsVRgBvYC/kGBu1c9/Q/QBUCT39NifUyVAz7f02d/7/BO3wYup5Zf4FXS5cfE4nDGIxDJrRXbKP7Nilyl/z+1WWW/rnYz+fylZrGpXaaunXXuc6x776zkzRvE7dQhmAYRhx0jnI2X3O+CZiEKZiGGQeueTwJjWsBFqH56JYgZelZx7EBGdhUfGlYhhVYhTVL1z79B3AIR5qzuZyjZ/SfwwVcKi51FtqmSn8Aj/CkuH6bhS5jmoXRuHtXeBb+p/vTw7ukF/qg3/H3hZoGhfdI3Q==
+   eJzt1jtOAkEcx/E/jWgokEVN3NUT4KPVUuMr4QygdAgH0BP46HzdQY/go1Eo5AJqJ4seQelU/BqadTKjsDOFhb/kE5LZ5f/L7CYDIvrspkT2UoaLZAvb5st95ZSesx+64uTaE7lBDXWvu7ZDxy0a2I/0DWfsuh6Z30SIlqe/5471ezwYrveaN77/jg90DLNeWH9F27LLz4oEmMAkKnEH5UUS+cinJnPMn89+fy99zTTN1tznOie++5lx8vW6eYQyglGMOZg5zt58zf5ymMI0ZjDroGuBnkVN1xKWsYJVrFn2lOnYRAVVpa+AItaxgZJl1wHzD3GEY83eXJ6j58y/wCWulC71LLRNyPwWnvCsdP12FrqM6SxMB+67omfhf/5+BvgtSWIQQ47/X6j5BIwwOvA=
   </data>
  </layer>
  <objectgroup id="10" name="AlwaysFront"/>

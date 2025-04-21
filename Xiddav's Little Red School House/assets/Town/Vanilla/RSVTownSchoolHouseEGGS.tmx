@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="27" height="22" tilewidth="16" tileheight="16" infinite="0" nextlayerid="18" nextobjectid="7">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="27" height="22" tilewidth="16" tileheight="16" infinite="0" nextlayerid="18" nextobjectid="7">
  <editorsettings>
   <export format="tmx"/>
  </editorsettings>
@@ -1707,7 +1707,7 @@
    eJytlTtOA0EMhsdRJApSISAlcAAKTgAUeQhxhzx41JQQsktNGV67TY4ARKLkBMAtkCi5AmCztubPZENCYKVfu/PyN/baM7WiczVQhdUMVA36w3aLFZNzbVaH1WNdsBqsJmtHFXJkXcr9Efl3XftvtM/ah5T1iRJWi0XKooDVplFOBGMnga7AttnHeebTwGU6DsZCTgpjMt9sLZFfK9/LrLLOuwBG4jwrhW9RpTi816aukfe7xqWn32grGWMvFLIxbrsakyW1XQb/juhnm9Mogrh31A+MCen7/B9YZ8CRdidgROSFOTuLYvXF/MEx5DxOYIU1af3y5LF6kJe47jtXcuxhLeO++i6rwaaybF6sudfSeZj/+EjbavdznjtK04tK2bqYhveE5wE+h5pDG6wVXrv6C62x9nJYEfmzLe/caM/I6kJcLM7Gkpjezjl3x7qf82dO5w+sWOu4xqpTVgPjWE+sZzcb65p8bmB+GEvsI++V2zsF5zZ57dYvtF3KYh/r/7Z6nsR6YH3AWbhI/u7IU3/B+4F33MCNsown8XthvQXnjrCONW/EpuTbvuogiJnYPdV/1QO/rM9sik9HhYwl9lGJ87wu+VpMlGO+YC0n4NcG+CZnF8YvDXgyfqmxvKbRe1Q4VWCZH8ZaBxbGr6o5a3mLTLyHjYH/1FhhbpivqcavoPFraI3IP2/RMDtPddjHF+Lh/3I=
   </data>
  </layer>
- <layer id="11" name="Back 2" width="27" height="22">
+ <layer id="11" name="Back2" width="27" height="22">
   <properties>
    <property name="Draw" value="Back"/>
   </properties>
@@ -1721,7 +1721,7 @@
    eJy1lc8vXFEUx8+TptLMSDHJWzxRigZFbLrqhrJTakfososGC8LYCytsWNgZC5Eo/QOaEClNSrv1a0v8Ftr+C/2evHsy5715b/Jmwkk+OffeuXM+5z7Xm4YYUSOQGMR4SM05PlPmPAocPQmi3oQ7fo+6nar2DMazAe7XoMH0xXXmwDwYjoX7OZLwjCe8vQ5QcIi7I+btaw2sq5pRz8kxSd7eOeotou/gCNRY3u9EfY5BLh5L7+JpA3/AX7BhhdfgvYemJ+kNaxPZXEwt9tUZz0fwtICoEByYGv6aPB9RPUne9+3nrF23oBVr74wnCSrgqQT3Zt1fcxtMq552LDffqX3bJsudlHNtYa3feMZUL1yr39TcUbU5L6ueJD9Rn0uWOynP7tg4tEdiLKAm5021V+5tecA+OY88u3/gDVgtIfoC1sA6+ArOSjL92WIR+1NgCfQWp1195tnJeX7i812wB36B3+wpzc2lo9pOu0Z9z+0ctS/AJbgC1zmeiaMtTtQed8ftyrWiPJVYf+mjys6s9SPuzdlCu1JwLYFvAXciKE5Q/9Q4zpDPwQW4BFfgGtyoPeKS9yiPZyO6cg1x6feouIpwb5/Hwr+br0sjf7cmeJofyPXCTrvIeAqs9LnYVRxytoUy77zGIXrlhM85/C59ri44PoDuCGfrRN0uJ3zO8cl234X6dyufu5FE3XEnfM4xZbvvQv2bu5KHaxF1U074XP5f/XfjMe7822dELeA/ZGOe0w==
   </data>
  </layer>
- <layer id="15" name="Buildings 2" width="27" height="22">
+ <layer id="15" name="Buildings2" width="27" height="22">
   <data encoding="base64" compression="zlib">
    eJxjYBgFo2AUjIJRMApGAa3BKikGhtVSCP4XIPulNG3sugQ0+zKSXSuA7JVSuNVTAuqA5tYjmX0ByL5II7sGIwAAE50KAA==
   </data>
@@ -1738,7 +1738,7 @@
    eJzdlUtOAkEURR8YB9A9oBVNuicmMhd/ARfBd6J7AIEdiEMF3YbbMEZ+a2AtmHgMNTCEruqCbgbc5KRSqVf3vqpOpUVESlCGOwlX1hFxwHU0RUotatohdXVoQNNsE0kDcoaGnmx6T1oX3nLU3ZGtKvh4+B7BMeThBCoqK8od2aiI7yVcwTXcQMuLz/+/qvjWoA4NaMJLQlltfB+hA13owUeErE2+5Su+AxjCG7zDyPJcT9T34RnKObu92+jgNFn/c1ek4BqK6CG1QjrhvnT6VP1+qfGbcQRjmMAUZqYz7bl6vJF0ajdZXbJuI2YtfJEfP3xuUsdZEvfZtv1v3QciD0G8PW0s9UZ3oSAjcpYJX58f6vf/retq1q39As10KSc=
   </data>
  </layer>
- <layer id="16" name="Front 2" width="27" height="22">
+ <layer id="16" name="Front2" width="27" height="22">
   <data encoding="base64" compression="zlib">
    eJxjYBgFo2AUjIJRMApGJiiQZmAolEbwZYDsadK41Y+CUYAOAHtgAgA=
   </data>
@@ -1746,7 +1746,7 @@
  <objectgroup id="8" name="Front"/>
  <layer id="9" name="AlwaysFront" width="27" height="22">
   <data encoding="base64" compression="zlib">
-   eJzd1jlSAkEYhuE/QikIZFADkRMgkkrudgll1cALaAYKop7CXTiGaKAHUMxUruCSub0URdUwTkM7MxjwVT1JN/1/VUNVz4jYZy8gsh9QbJJNbKm3/5QqPbUeXU5yaYjUcYVro71WoeMGtzgw9Y2F3HU9Mv8Jz2ga9r+5Z72BB8W+bj44/4kvfCtmvbL+hneXXVNhkQimEcWGae/O5Wxr5pifDHf/L528eNw1rGk9Jh6hjGMCk5rnUkGRNDLIIoc81rAetD8TwwzimEVCs6vAvCK2sYMSythFRdE1jwUsYgnLml2HzDvCMU5wijOc4wJVm74VrCKFNDKaXU7j5T3aK9a7cJDpdxd6mX53odPUI7/XzHfhoJP8h45hj493yQhG4ff4+8KaH5IMObc=
+   eJzt1TtSAkEUheEbKRYEMqgB6ArwkUruaxMKCBiwAcx8o6wC8IXLEAlwA0ImsgYgQ+S3TFCnh2aGMaA8VV/SPX1P1UxVj4h5Lr0iV17FJsngUL09Ukr0PFh02cmjIVLGEyrG11qWjiqekRvom/U763plfgNvaBrmz7ywXkNdsa+bLuff0cOHYlaL9TY6DruCAZEQFrGEtLNxlllnfiTw/bv8Z7R8fm5eocxhHgua56I+kRji2EcCSaRw4DM/E8YyVrCKNc2uI+Yd4wSnOMM5LpBVdG1gE1vYxo5mV555BRRxjRvc4g73KJn07WIPUcQQ1+yym3Heo1b5eRe6mWF34Tgz7C60m3Lo99rgXeh2In/QMemZ4l8yDQ9mXP6v9AF6fTfN
   </data>
  </layer>
  <objectgroup id="10" name="AlwaysFront"/>

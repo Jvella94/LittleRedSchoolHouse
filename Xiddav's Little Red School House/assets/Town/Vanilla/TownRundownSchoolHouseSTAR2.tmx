@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="27" height="22" tilewidth="16" tileheight="16" infinite="0" nextlayerid="15" nextobjectid="4">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="27" height="22" tilewidth="16" tileheight="16" infinite="0" nextlayerid="15" nextobjectid="4">
  <tileset firstgid="1" name="Landscape" tilewidth="16" tileheight="16" tilecount="1975" columns="25">
   <image source=".winter_outdoorsTileSheet.png" width="400" height="1264"/>
   <tile id="150">
@@ -2618,7 +2618,7 @@
    eJytlUtOw0AMhscVO7pCPJbAAbooFwAWfajiDjTlsWYJpQlrluWVbHoHJE4B3AKJJVcAbMVW/rqltIFIvyaZGfsbezyT1lIILVCD1XVqun7/HbESCqHH6rOGrBvWIavL6qg8R+wy7o+paNva/6B99n1KeZ8oZUUsUhY5Vo8mOTGMXTjdgW/zj/MspseQ69yNeU4GYzLffK1RYSvv66wNnXcDjDQUrAzeRY2l8bV21UbaD83LUN/RV/qDPy9kY94ONCdr6nsD4juj2T7nUQx572scmBPS9vofWFfAke++Y8RUCGu2jBKNxeIp68efyd9YQ6hLbztLtuemUcjPoJ+XaO1FOg/rHx/5trP7tcwd1flF1dwuofE1CWcUJlkDnVtnbbLt1gLaZh1NYeH6vaxey7AG4NfyHCt/tBJCjdsdjcXuj/4fWIme4xarTfkZSJTRBY4wnnktL6Ec656K2sD6wD7jyHl4Y06nEsIu2+4toP1q7idxa48hLuTIuRbWE+sT7sJVKv4d0yR7YXHgP+4xjMcVwb0k+Xtlvbt7R1hy/9+pjdTbserE5Uz8XupeDWmShTGdVXKW+EeloeANoJZTtw/oN4W46hCX7ZXlL3M8Gb/VXN7T5H9UOE1gWWzGqgEL89fUmrW6RSb+h42Be2osXxsWa6b5q2j+xKajex7ROHua2rCOb1Js+hM=
   </data>
  </layer>
- <layer id="11" name="Back 2" width="27" height="22">
+ <layer id="11" name="Back2" width="27" height="22">
   <properties>
    <property name="Draw" value="Back"/>
   </properties>
